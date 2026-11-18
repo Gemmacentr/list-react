@@ -1,0 +1,7 @@
+button {
+  display: block;
+}
+.seleccionado {
+  background-color: yellow;
+  font-weight: bold;
+}
